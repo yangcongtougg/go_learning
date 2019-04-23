@@ -1,4 +1,4 @@
-package main
+package muke_lessons
 
 import (
 	"fmt"
