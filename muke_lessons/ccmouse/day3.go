@@ -1,4 +1,4 @@
-package muke_lessons
+package ccmouse
 
 import (
 	"fmt"
